@@ -82,7 +82,7 @@ _Classes list page_
 ![Screenshoot of the classes](./screenshots/class-preview.png "Classes list page")
 
 _Class enrollment page_
-![Screenshoot of a class enrollment](./screenshots/class-preview.png "Class enrollment page")
+![Screenshoot of a class enrollment](./screenshots/class-enrollment-preview.png "Class enrollment page")
 
 ### Participant Information
 
