@@ -15,10 +15,6 @@ The Learning Centre Dashboard is a comprehensive, responsive web application des
 - [Technical Details](#technical-details)
 - [Screenshots](#screenshots)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Overview
 
