@@ -70,23 +70,21 @@ The Learning Centre Dashboard centralizes key management tasks into one platform
 
 ### Dashboard Overview
 
-<img src="./screenshots/dashboard-preview.jpg" alt="Screenshoot of the dashboard main page" />
+<img src="./screenshots/dashboard-preview.png" alt="Screenshoot of the dashboard main page" />
 
 ### Courses Section
 
-<img src="./screenshots/course-preview.jpg" alt="Screenshoot of the course section" />
+<img src="./screenshots/course-preview.png" alt="Screenshoot of the course section" />
 
 ### Class Details & Enrollment
 
-<img src="./screenshots/class-preview2.jpg" alt="Screenshoot of the classes" />
-Screenshoot of the classes
+![Screenshoot of the classes](<./screenshots/class-preview.png>"Classes list page")
 
-<img src="./screenshots/class-preview.jpg" alt="Screenshoot of a class enrollment" />
-Screenshoot of a class enrollment
+![Screenshoot of a class enrollment](<./screenshots/class-preview.png>"Class enrollment page")
 
 ### Participant Information
 
-<img src="./screenshots/participant-profile-preview.jpg" alt="Screenshoot of a participant profile" />
+<img src="./screenshots/participant-profile-preview.png" alt="Screenshoot of a participant profile" />
 
 ## Installation
 
