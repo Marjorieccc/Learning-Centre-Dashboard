@@ -2,9 +2,9 @@
 
 The Learning Centre Dashboard is a comprehensive, responsive web application designed for educational institutions. It streamlines the management of courses, classes, and participant details while providing an intuitive view of participant enrollment across different classes.
 
-## Live Demo
+<img src="./screenshots/dashboard-preview.png" alt="Screenshoot of the dashboard main page" />
 
-<img src="./screenshots/desktop-screenshot.jpg" alt="Desktop screenshot of Social Links Profile" />
+## Live Demo
 
 - Live Site URL: [click here](https://learning-centre-dashboard.vercel.app/)
 
