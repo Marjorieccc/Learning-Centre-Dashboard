@@ -103,9 +103,6 @@ _Class enrollment page_
    cd Learning-Centre-Dashboard
    ```
 
-```
-
-```
 
 2. **Install Dependencies:**
 
