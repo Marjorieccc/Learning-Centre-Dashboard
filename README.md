@@ -78,9 +78,11 @@ The Learning Centre Dashboard centralizes key management tasks into one platform
 
 ### Class Details & Enrollment
 
-![Screenshoot of the classes](<./screenshots/class-preview.png>"Classes list page")
+_Classes list page_
+![Screenshoot of the classes](./screenshots/class-preview.png "Classes list page")
 
-![Screenshoot of a class enrollment](<./screenshots/class-preview.png>"Class enrollment page")
+_Class enrollment page_
+![Screenshoot of a class enrollment](./screenshots/class-preview.png "Class enrollment page")
 
 ### Participant Information
 
