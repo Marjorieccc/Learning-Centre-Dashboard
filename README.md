@@ -105,19 +105,17 @@ _Class enrollment page_
 
 
 2. **Install Dependencies:**
-
-```
-npm install
-# or
-yarn install
-```
+    ```
+    npm install
+    # or
+    yarn install
+    ```
 
 3. **Run the Development Server:**
-
-```
-npm run dev
-# or
-yarn dev
-```
+    ```
+    npm run dev
+    # or
+    yarn dev
+    ```
 
 4. **Access the Application: Open your browser and navigate to `http://localhost:3000.`**
